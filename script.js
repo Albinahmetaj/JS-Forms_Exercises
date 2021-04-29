@@ -38,3 +38,14 @@ function submitBday() {
     var theBday = document.getElementById('resultBday');
     theBday.innerHTML = Q4A;
 }
+
+/*const button = document.querySelector(".btn");
+var firstName = document.getElementById("fname");
+var lastName = document.getElementById("lname");
+//var button = document.getElementById("btn");
+
+button.addEventListener("click", function(){
+    localStorage.name = fname.value;
+    localStorage.name = lname.value;
+});
+*/
